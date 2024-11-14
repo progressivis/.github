@@ -13,6 +13,6 @@
 
 This organization gathers all the repositories related to the ProgressiVis Toolkit, its JupyterLab support, and many related projects.
 
-ProgressiVis is a toolkit designed to run data analyses in a progressive way and visualize the results on the fly. See the [ProgressiVis README file](https://github.com/progressivis/progressivis/main/profile/README.md) for more details.
+ProgressiVis is a toolkit designed to run data analyses in a progressive way and visualize the results on the fly. See the [ProgressiVis README file](https://github.com/progressivis/progressivis/blob/master/README.md) for more details.
 
 The documentation is available at https://progressivis.readthedocs.io/en/latest/
