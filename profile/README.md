@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This Github organization gathers all the repositories related to the [ProgressiVis Toolkit](https://github.com/progressivis/progressivis), its [JupyterLab support]((https://github.com/progressivis/ipyprogressivis), and several related projects.
+This Github organization gathers all the repositories related to the [ProgressiVis Toolkit](https://github.com/progressivis/progressivis), its [JupyterLab support](https://github.com/progressivis/ipyprogressivis), and several related projects.
 
 ProgressiVis is a toolkit designed to run data analyses in a progressive way and visualize the results on the fly. See the [ProgressiVis README file](https://github.com/progressivis/progressivis/blob/master/README.md) for more details.
 
